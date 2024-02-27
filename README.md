@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan-Aktar
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react,nodeJS
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning jsp,servlet,java,plsql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
